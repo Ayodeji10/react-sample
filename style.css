@@ -1,0 +1,35 @@
+body {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.products {
+  background-color: aliceblue;
+  width: 90%;
+  margin: 60px auto;
+  padding: 50px 40px;
+}
+
+.products h1 {
+  text-align: center;
+}
+
+.product {
+  background-color: gray;
+  padding: 20px;
+  display: inline-block;
+  width: 370px;
+  border-radius: 15px;
+  margin: 20px;
+}
+
+.product img {
+  height: 210px;
+}
+
+.product button {
+  height: 40px;
+  padding: 0px 30px;
+  margin-bottom: 7px;
+  border-radius: 10px;
+  box-shadow: none;
+}
